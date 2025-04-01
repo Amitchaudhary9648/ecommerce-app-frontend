@@ -43,7 +43,7 @@ const Footer = () => {
                                     Pincode: 273007
                                 </address>
                                 <a 
-                                    href='tel:+919648885882' 
+                                    href='mailto:+919648885882' 
                                     className='mt-3 d-block mb-2 text-white'>
                                         +91 9648885882
                                 </a>
@@ -53,16 +53,16 @@ const Footer = () => {
                                         amit.chaudhary9648@gmail.com
                                 </a>
                                 <div className='social-icons d-flex align-items-center gap-30 mt-4'>
-                                    <a className='text-white' href="">
+                                    <a className='text-white' href="#">
                                         <BsLinkedin className='fs-3' />
                                     </a>
-                                    <a className='text-white' href="">
+                                    <a className='text-white' href="#">
                                         <BsInstagram className='fs-3' />
                                     </a>
-                                    <a className='text-white' href="">
+                                    <a className='text-white' href="#">
                                         <BsGithub className='fs-3' />
                                     </a>
-                                    <a className='text-white' href="">
+                                    <a className='text-white' href="#">
                                         <BsYoutube className='fs-3' />
                                     </a>
                                 </div>
